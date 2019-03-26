@@ -1,7 +1,5 @@
 a.out
 deekshid
-Desktop
-Documents
 Downloads
 examples.desktop
 hi.c
@@ -10,6 +8,7 @@ Music
 navaneethkvc.c
 Pictures
 Public
+kkkkk
 rf.c
 rg.c
 tata.c
